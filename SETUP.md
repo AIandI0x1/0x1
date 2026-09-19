@@ -2,15 +2,16 @@
 
 ## What 0x1 operates on
 
-- Linux first. Fedora is the reference environment.
+- Linux first. Fedora is the reference environment. Can work on Mac and Windows too but might need changes in    the future
 - Python 3, standard library only. No dependencies at the root.
-- Plain files as state. Nothing hidden. Nothing you cannot read.
+- Plain files as state. Nothing hidden. Nothing you cannot read. Most of it will be json
 
 ## Where this is going
 
 1. **Governance pipeline.** 
    A brain must be able to govern itself before anything else grows.
-2. **Then the anatomy.** Named regions, populated in steps.
-3. **Then whatever we discover together.**
+   which already proved itself as the agent started rushing this repo now i am manually doing the work as we    dont have any gov yet
+3. **Then the anatomy.** Named regions, populated in steps.
+4. **Then whatever we discover together.**
 
 Nothing rushed. Each step lands only when it is true.
