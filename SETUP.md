@@ -8,7 +8,7 @@
 
 ## Where this is going
 
-1. **Governance pipeline.** Events, chain, state, checks.
+1. **Governance pipeline.** 
    A brain must be able to govern itself before anything else grows.
 2. **Then the anatomy.** Named regions, populated in steps.
 3. **Then whatever we discover together.**
