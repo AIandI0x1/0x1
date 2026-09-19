@@ -1,5 +1,8 @@
 # SETUP 0
 
+0x1 is a framework its sits above the IDE and agent harnesses it is what governs and directs.
+For now pluggable and modular will try to keep it that way
+
 ## What 0x1 operates on
 
 - Linux first. Fedora is the reference environment. Can work on Mac and Windows too but might need changes in    the future
